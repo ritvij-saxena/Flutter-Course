@@ -15,7 +15,7 @@ import 'package:demo1/widgets/products/helper/custom_route.dart';
 
 void main() {
   /*debugPaintSizeEnabled=true;*/
-  MapView.setApiKey('AIzaSyBjD-J1bPXyniHW-hWKGO_o4a1zcePeBpI');
+  MapView.setApiKey('');
   runApp(MyApp());
 }
 
